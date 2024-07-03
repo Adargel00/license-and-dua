@@ -21,16 +21,18 @@ If I am granted access to the PhysioNet Clinical Databases, I agree to the terms
   
 ---  
 
-My name:  
-My PhysioNetWorks username:  
-Telephone number, including country/area code (required):  
-Institution:  
-Title or position:  
-Street address:  
-City:  
-State/Province:  
-ZIP/postal code:  
-Country:  
+My name:  Dr. Aroldo Dargel
+My PhysioNetWorks username: adargel  
+Telephone number, including country/area code (required): (613) 799-7034  
+Institution: The Ottawa Hospital
+Title or position: Staff Psychiatrist, The Ottawa Hospital
+Associate Professor, Department of Psychiatry, uOttawa
+Associate Scientist, Ottawa Hospital Research Institute
+Street address:  510 Smyth Road
+City:  Ottawa
+State/Province:  Ontario
+ZIP/postal code:  K1H 8L6
+Country:  Canada
   
 Name of human studies training course completed:  
 Date completed:  
@@ -41,9 +43,9 @@ Date completed:
 * Supervisor's title:  
 (* information required for students and postdocs)   
   
-General research area for which the data will be used:   
+General research area for which the data will be used: Mental Health in AI  
   
-Date of this agreement:   
+Date of this agreement:   03/07/2024
   
 [ ] I have attached a certificate of completion of a human subjects
 protections course. 
